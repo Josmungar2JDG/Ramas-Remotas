@@ -1,3 +1,5 @@
 Director enfadado
 Director triste
 Director contento
+Director eufórico
+Director cansado
